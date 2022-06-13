@@ -3,7 +3,7 @@
 In this paper, we designed a ultra lite CNN for AMC, and its simulation is based on RML2016A
 
 
-\begin{table*}
+$\begin{table*}
   \caption{The average classification performances.}
   \begin{center}
   \begin{tabular}{|c|c|c|c|c|c|c|c|c|}
@@ -23,4 +23,4 @@ In this paper, we designed a ultra lite CNN for AMC, and its simulation is based
   \end{tabular}
   \end{center}
   \label{Tab:Structure_FLOPs_Param2}
-\end{table*}
+\end{table*}$
