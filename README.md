@@ -7,3 +7,5 @@ We are also modifying the structure to improve performance.
 ![image](https://user-images.githubusercontent.com/107237593/173319130-64a6e458-c5a7-4070-a322-c1962ef41abd.png)
 
 ![image](https://user-images.githubusercontent.com/107237593/173318852-8b09785b-788d-4ed2-a4a0-8d132536994f.png)
+
+#20220616,今天改成衰减学习率（0.8/10），SCNN性能好点儿了，但是其他方法基本没啥用
