@@ -8,4 +8,6 @@ We are also modifying the structure to improve performance.
 
 ![image](https://user-images.githubusercontent.com/107237593/173318852-8b09785b-788d-4ed2-a4a0-8d132536994f.png)
 
-#20220616,今天改成衰减学习率（0.8/10），SCNN性能好点儿了，但是其他方法基本没啥用
+#20220616上午
+改成衰减学习率（0.8/10），SCNN性能好点儿了，但是其他方法基本没啥用.
+MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机数设置问题
