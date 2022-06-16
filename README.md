@@ -4,7 +4,7 @@ In this paper, we designed a ultra lite CNN for AMC, and its simulation is based
 
 We are also modifying the structure to improve performance.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/107237593/174008584-2e72e305-9474-4a3d-af03-2f94e5844f5c.png)
 
 #**20220616**
 
