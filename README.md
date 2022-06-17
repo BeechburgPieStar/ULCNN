@@ -25,3 +25,5 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 下午考虑用跨层次特征融合继续提高性能！
 
 继续调试MCLDNN的结果
+
+好蠢那，MCLDNN最后一层用的linear没用softmax，原来做知识蒸馏没改过来。。。
