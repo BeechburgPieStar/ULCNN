@@ -27,3 +27,8 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 继续调试MCLDNN的结果
 
 好蠢那，MCLDNN最后一层用的linear没用softmax，原来做知识蒸馏没改过来。。。
+
+更新一版结果，目前是62.25%，目标62.5%左右/参数量在1.2万左右/计算量低于0.3M
+
+![image](https://user-images.githubusercontent.com/107237593/174310001-8c099ca3-8e22-4ea6-b358-eaf3b6b94722.png)
+
