@@ -38,7 +38,7 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 
 跨层次融合最多能到62.27%，继续简化结构
 
-性能更新完成，目前ULCNN可以达到62.42%，仅有9751个参数
+性能更新完成，目前ULCNN可以达到62.42%，仅有9751个参数/0.196M的MACCs
 
 ![image](https://user-images.githubusercontent.com/107237593/174430367-9926fb1a-95e1-4c3a-bd97-e9b3fc418abc.png)
 
