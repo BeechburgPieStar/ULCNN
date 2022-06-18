@@ -42,6 +42,8 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 
 ![image](https://user-images.githubusercontent.com/107237593/174430367-9926fb1a-95e1-4c3a-bd97-e9b3fc418abc.png)
 
+开始消融实验，去除冗余结构。下周一测试模型在树莓派/1080Ti上的运行时间
+
 
 
 
