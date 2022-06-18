@@ -32,3 +32,21 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 
 ![image](https://user-images.githubusercontent.com/107237593/174310001-8c099ca3-8e22-4ea6-b358-eaf3b6b94722.png)
 
+#**20220618**
+
+元素级的操作太占用时间了，虽然FLOPs/MACCs没增加多少，但是MAC明显增大
+
+跨层次融合最多能到62.27%，继续简化结构
+
+
+
+
+
+
+
+
+
+
+
+
+
