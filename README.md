@@ -2,6 +2,33 @@
 
 In this paper, we designed a ultra lite CNN for AMC, and its simulation is based on RML2016A
 
+**Classification performances
+
+![image](https://user-images.githubusercontent.com/107237593/174430367-9926fb1a-95e1-4c3a-bd97-e9b3fc418abc.png)
+
+**Ablation studies
+
+![image](https://user-images.githubusercontent.com/107237593/174464421-d64c3d48-61e4-4c40-8653-d96a1fe5629d.png)
+
+**Classification performances with different kernel sizes
+
+![image](https://user-images.githubusercontent.com/107237593/174464466-df66f621-7504-4804-8df2-2d804f87489b.png)
+
+**Classification performances with different numbers of neurons
+
+![image](https://user-images.githubusercontent.com/107237593/174464476-70af005f-392c-4c4f-9463-cc34ca1d7853.png)
+
+**Loss and accuracy curves
+
+![image](https://user-images.githubusercontent.com/107237593/174467709-0c04b16a-c260-4355-a942-cb1a0a6bf775.png)
+
+**Complexity analysis
+
+![image](https://user-images.githubusercontent.com/107237593/174472870-e5047fe9-d2b2-4da4-a3aa-eaf4872a1f80.png)
+
+
+#调参日记
+
 We are also modifying the structure to improve performance.
 
 ![image](https://user-images.githubusercontent.com/107237593/174008584-2e72e305-9474-4a3d-af03-2f94e5844f5c.png)
