@@ -58,6 +58,11 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 
 ![image](https://user-images.githubusercontent.com/107237593/174464476-70af005f-392c-4c4f-9463-cc34ca1d7853.png)
 
+Loss与acc曲线
+
+![image](https://user-images.githubusercontent.com/107237593/174467709-0c04b16a-c260-4355-a942-cb1a0a6bf775.png)
+
+
 
 
 
