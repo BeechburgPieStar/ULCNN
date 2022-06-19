@@ -66,6 +66,8 @@ Loss与acc曲线
 
 ![image](https://user-images.githubusercontent.com/107237593/174469116-902525cb-4883-498d-8a53-c11e723d21ec.png)
 
+参数量与计算量（FLOPs/MACCs）少，并不代表计算计算快，相关可以参考shufflenet v2的分析，模型的并行程度，元素级操作的数量等都可以影响计算速度。FLOPs/MACCs并非直接度量标准，只能代表模型所需的资源有限！
+
 
 
 
