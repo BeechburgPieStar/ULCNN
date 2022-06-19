@@ -2,27 +2,27 @@
 
 In this paper, we designed a ultra lite CNN for AMC, and its simulation is based on RML2016A
 
-**Classification performances
+**Classification performances**
 
 ![image](https://user-images.githubusercontent.com/107237593/174430367-9926fb1a-95e1-4c3a-bd97-e9b3fc418abc.png)
 
-**Ablation studies
+**Ablation studies**
 
 ![image](https://user-images.githubusercontent.com/107237593/174464421-d64c3d48-61e4-4c40-8653-d96a1fe5629d.png)
 
-**Classification performances with different kernel sizes
+**Classification performances with different kernel sizes**
 
 ![image](https://user-images.githubusercontent.com/107237593/174464466-df66f621-7504-4804-8df2-2d804f87489b.png)
 
-**Classification performances with different numbers of neurons
+**Classification performances with different numbers of neurons**
 
 ![image](https://user-images.githubusercontent.com/107237593/174464476-70af005f-392c-4c4f-9463-cc34ca1d7853.png)
 
-**Loss and accuracy curves
+**Loss and accuracy curves**
 
 ![image](https://user-images.githubusercontent.com/107237593/174467709-0c04b16a-c260-4355-a942-cb1a0a6bf775.png)
 
-**Complexity analysis
+**Complexity analysis**
 
 ![image](https://user-images.githubusercontent.com/107237593/174472870-e5047fe9-d2b2-4da4-a3aa-eaf4872a1f80.png)
 
@@ -72,27 +72,6 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 开始消融实验，去除冗余结构。下周一测试模型在树莓派/1080Ti上的运行时间
 
 #**20220618**
-
-消融实验 
-
-![image](https://user-images.githubusercontent.com/107237593/174464421-d64c3d48-61e4-4c40-8653-d96a1fe5629d.png)
-
-不同卷积核
-
-![image](https://user-images.githubusercontent.com/107237593/174464466-df66f621-7504-4804-8df2-2d804f87489b.png)
-
-不同神经元数量
-
-![image](https://user-images.githubusercontent.com/107237593/174464476-70af005f-392c-4c4f-9463-cc34ca1d7853.png)
-
-Loss与acc曲线
-
-![image](https://user-images.githubusercontent.com/107237593/174467709-0c04b16a-c260-4355-a942-cb1a0a6bf775.png)
-
-复杂度分析
-
-![image](https://user-images.githubusercontent.com/107237593/174472870-e5047fe9-d2b2-4da4-a3aa-eaf4872a1f80.png)
-
 参数量与计算量（FLOPs/MACCs）少，并不代表计算计算快，相关可以参考shufflenet v2的分析，模型的并行程度，元素级操作的数量等都可以影响计算速度。FLOPs/MACCs并非直接度量标准，只能代表模型所需的资源有限！
 
 
