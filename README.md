@@ -24,8 +24,7 @@ In this paper, we designed a ultra lite CNN (ULCNN), with almost 10k parameters 
 
 **Complexity analysis**
 
-![image](https://user-images.githubusercontent.com/107237593/174472870-e5047fe9-d2b2-4da4-a3aa-eaf4872a1f80.png)
-
+![image](https://user-images.githubusercontent.com/107237593/176838730-5fcc0c0b-3fe8-46b1-a3df-1e3d1bd4413a.png)
 
 #调参日记
 
