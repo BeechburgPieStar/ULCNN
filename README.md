@@ -2,24 +2,29 @@
 
 In this paper, we designed a ultra lite CNN (ULCNN), with almost 10k parameters and 0.2M MACCs, for AMC, and its simulation is based on RML2016A
 
-Train/val/test samples: 77000/33000/110000
+
+
+# Requirements
 
 keras=2.1.4 tensorflow=1.14
 
-**Classification performances**
+# Dataset
+Train/val/test samples: 77000/33000/110000
 
-**Ablation studies**
+# Classification performances
 
-**Classification performances with different kernel sizes**
+# Ablation studies
+
+# Classification performances with different kernel sizes
 
 
-**Classification performances with different numbers of neurons**
+# Classification performances with different numbers of neurons
 
-**Loss and accuracy curves**
+# Loss and accuracy curves
 
 ![image](https://user-images.githubusercontent.com/107237593/174467709-0c04b16a-c260-4355-a942-cb1a0a6bf775.png)
 
-**Complexity analysis**
+# Complexity analysis
 
 ![image](https://user-images.githubusercontent.com/107237593/176838730-5fcc0c0b-3fe8-46b1-a3df-1e3d1bd4413a.png)
 
