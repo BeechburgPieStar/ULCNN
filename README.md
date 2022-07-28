@@ -2,6 +2,10 @@
 
 In this paper, we designed a ultra lite CNN (ULCNN), with almost 10k parameters and 0.2M MACCs, for AMC, and its simulation is based on RML2016A
 
+Train/val/test samples: 77000/33000/110000
+
+keras=2.1.4 tensorflow=1.14
+
 **Classification performances**
 
 ![image](https://user-images.githubusercontent.com/107237593/174430367-9926fb1a-95e1-4c3a-bd97-e9b3fc418abc.png)
@@ -25,6 +29,8 @@ In this paper, we designed a ultra lite CNN (ULCNN), with almost 10k parameters 
 **Complexity analysis**
 
 ![image](https://user-images.githubusercontent.com/107237593/176838730-5fcc0c0b-3fe8-46b1-a3df-1e3d1bd4413a.png)
+
+
 
 #调参日记
 
@@ -64,7 +70,7 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 
 跨层次融合最多能到62.27%，继续简化结构
 
-性能更新完成，目前ULCNN可以达到62.42%，仅有9751个参数/0.196M的MACCs
+性能更新完成，目前ULCNN可以达到62.47%，仅有9751个参数/0.196M的MACCs
 
 ![image](https://user-images.githubusercontent.com/107237593/174430367-9926fb1a-95e1-4c3a-bd97-e9b3fc418abc.png)
 
@@ -75,7 +81,6 @@ MCLDNN用了4倍数据增强后training acc一直是0.09左右，可能是随机
 
 #**20220725**
 论文基本完成！后续考虑知识蒸馏之类的方案，继续轻量化
-
 
 
 
