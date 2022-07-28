@@ -8,19 +8,12 @@ keras=2.1.4 tensorflow=1.14
 
 **Classification performances**
 
-![image](https://user-images.githubusercontent.com/107237593/174430367-9926fb1a-95e1-4c3a-bd97-e9b3fc418abc.png)
-
 **Ablation studies**
-
-![image](https://user-images.githubusercontent.com/107237593/174464421-d64c3d48-61e4-4c40-8653-d96a1fe5629d.png)
 
 **Classification performances with different kernel sizes**
 
-![image](https://user-images.githubusercontent.com/107237593/174464466-df66f621-7504-4804-8df2-2d804f87489b.png)
 
 **Classification performances with different numbers of neurons**
-
-![image](https://user-images.githubusercontent.com/107237593/174464476-70af005f-392c-4c4f-9463-cc34ca1d7853.png)
 
 **Loss and accuracy curves**
 
