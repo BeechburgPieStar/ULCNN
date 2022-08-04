@@ -1,6 +1,6 @@
 # Ultra-Lite-Convolutional-Neural-Network-for-Automatic-Modulation-Classification
 
-In this paper, we designed a ultra lite CNN (ULCNN), with almost 10k parameters and 0.2M MACCs, for AMC, and its simulation is based on RML2016A
+In this paper, we designed a ultra lite CNN (ULCNN), with almost 10k parameters and 0.2M MACCs, for AMC, and its simulation is based on RML2016.10a
 
 # Requirements
 
