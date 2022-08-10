@@ -46,11 +46,18 @@ or run dataset2016.py
 
 ![image](https://user-images.githubusercontent.com/107237593/176838730-5fcc0c0b-3fe8-46b1-a3df-1e3d1bd4413a.png)
 
-#Reference
+# Reference
 [1] J. Xu, C. Luo, G. Parr and Y. Luo, "A Spatiotemporal Multi-Channel Learning Framework for Automatic Modulation Recognition," in IEEE Wireless Communications Letters, vol. 9, no. 10, pp. 1629-1632, Oct. 2020, doi: 10.1109/LWC.2020.2999453.
+
 [2] X. Fu et al., "Lightweight Automatic Modulation Classification Based on Decentralized Learning," in IEEE Transactions on Cognitive Communications and Networking, vol. 8, no. 1, pp. 57-70, March 2022, doi: 10.1109/TCCN.2021.3089178.
+
 [3] T. Huynh-The, C. Hua, Q. Pham and D. Kim, "MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classification," in IEEE Communications Letters, vol. 24, no. 4, pp. 811-815, April 2020, doi: 10.1109/LCOMM.2020.2968030.
+
 [4] F. Zhang, C. Luo, J. Xu and Y. Luo, "An Efficient Deep Learning Model for Automatic Modulation Recognition Based on Parameter Estimation and Transformation," in IEEE Communications Letters, vol. 25, no. 10, pp. 3287-3290, Oct. 2021, doi: 10.1109/LCOMM.2021.3102656.
+
+
+# Acknowledgement
+Note that our code is partly based on https://github.com/wzjialang/MCLDNN. Thanks wzjialang for his great work!
 
 
 
