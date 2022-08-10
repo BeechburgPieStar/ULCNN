@@ -2,12 +2,20 @@
 
 In this paper, we designed a ultra lite CNN (ULCNN), with almost 10k parameters and 0.2M MACCs, for AMC, and its simulation is based on RML2016.10a
 
+#Paper
+
+http://arxiv.org/abs/2208.04659
+
 # Requirements
 
 keras=2.1.4 tensorflow=1.14
 
 # Codes
-To be uploaded
+MCLDNN [1]
+SCNN [2]
+MCNet [3]
+PET-CGDNN [4]
+ULCNN is the proposed structure.
 
 # Dataset
 RML2016.10a
@@ -15,6 +23,7 @@ RML2016.10a
 Train/val/test samples: 77000/33000/110000
 
 https://pan.baidu.com/s/1T36jgWlZ3oWmFWYpQLyiZg, passwd：f7qy
+or run dataset2016.py
 
 # Structure
 
@@ -34,6 +43,12 @@ To be uploaded
 # Complexity analysis
 
 ![image](https://user-images.githubusercontent.com/107237593/176838730-5fcc0c0b-3fe8-46b1-a3df-1e3d1bd4413a.png)
+
+#Reference
+[1] J. Xu, C. Luo, G. Parr and Y. Luo, "A Spatiotemporal Multi-Channel Learning Framework for Automatic Modulation Recognition," in IEEE Wireless Communications Letters, vol. 9, no. 10, pp. 1629-1632, Oct. 2020, doi: 10.1109/LWC.2020.2999453.
+[2] X. Fu et al., "Lightweight Automatic Modulation Classification Based on Decentralized Learning," in IEEE Transactions on Cognitive Communications and Networking, vol. 8, no. 1, pp. 57-70, March 2022, doi: 10.1109/TCCN.2021.3089178.
+[3] T. Huynh-The, C. Hua, Q. Pham and D. Kim, "MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classification," in IEEE Communications Letters, vol. 24, no. 4, pp. 811-815, April 2020, doi: 10.1109/LCOMM.2020.2968030.
+[4] F. Zhang, C. Luo, J. Xu and Y. Luo, "An Efficient Deep Learning Model for Automatic Modulation Recognition Based on Parameter Estimation and Transformation," in IEEE Communications Letters, vol. 25, no. 10, pp. 3287-3290, Oct. 2021, doi: 10.1109/LCOMM.2021.3102656.
 
 
 
