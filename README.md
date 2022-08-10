@@ -2,7 +2,7 @@
 
 In this paper, we designed a ultra lite CNN (ULCNN), with almost 10k parameters and 0.2M MACCs, for AMC, and its simulation is based on RML2016.10a
 
-#Paper
+# Paper
 
 http://arxiv.org/abs/2208.04659
 
@@ -17,6 +17,8 @@ MCNet [3]
 PET-CGDNN [4]
 ULCNN is the proposed structure.
 
+The model weights are given in "model/"
+
 # Dataset
 RML2016.10a
 
@@ -27,7 +29,7 @@ or run dataset2016.py
 
 # Structure
 
-To be uploaded
+
 
 # Classification performances
 
