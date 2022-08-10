@@ -29,7 +29,7 @@ or run dataset2016.py
 
 # Structure
 
-
+![image](https://user-images.githubusercontent.com/107237593/183788614-404b5743-21bb-4e9a-915c-04725fb36162.png)
 
 # Classification performances
 
@@ -58,12 +58,16 @@ or run dataset2016.py
 
 # Acknowledgement
 Note that our code is partly based on
+
 https://github.com/leena201818/radioml
+
 https://github.com/wzjialang/MCLDNN
+
 https://github.com/ThienHuynhThe/MCNet
+
 https://github.com/Richardzhangxx/PET-CGDNN
 
-Thanks wzjialang for his great work!
+Thanks for your great works!
 
 
 
