@@ -57,7 +57,13 @@ or run dataset2016.py
 
 
 # Acknowledgement
-Note that our code is partly based on https://github.com/wzjialang/MCLDNN. Thanks wzjialang for his great work!
+Note that our code is partly based on
+https://github.com/leena201818/radioml
+https://github.com/wzjialang/MCLDNN
+https://github.com/ThienHuynhThe/MCNet
+https://github.com/Richardzhangxx/PET-CGDNN
+
+Thanks wzjialang for his great work!
 
 
 
