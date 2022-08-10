@@ -65,7 +65,7 @@ Note that our code is partly based on
 
 <a name = "leena201818">https://github.com/leena201818/radioml</a>
 
-[https://github.com/wzjialang/MCLDNN](https://github.com/wzjialang/MCLDNN "wj")
+[wj](https://github.com/wzjialang/MCLDNN)
 
 [https://github.com/ThienHuynhThe/MCNet]
 
