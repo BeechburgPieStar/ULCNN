@@ -61,15 +61,7 @@ or run dataset2016.py
 
 
 # Acknowledgement
-Note that our code is partly based on
-
-<a name = "leena201818">https://github.com/leena201818/radioml</a>
-
-[wj](https://github.com/wzjialang/MCLDNN)
-
-[https://github.com/ThienHuynhThe/MCNet]
-
-[https://github.com/Richardzhangxx/PET-CGDNN]
+Note that our code is partly based on [leena201818](https://github.com/leena201818/radioml), [wzjialang](https://github.com/wzjialang/MCLDNN), [ThienHuynhThe](https://github.com/ThienHuynhThe/MCNet) and [Richardzhangxx](https://github.com/Richardzhangxx/PET-CGDNN).
 
 Thanks for your great works!
 
