@@ -6,6 +6,8 @@ In this paper, we designed a ultra lite CNN (ULCNN) (9,751 trainable parameters 
 
 http://arxiv.org/abs/2208.04659
 
+L. Guo, Y. Wang, Y. Liu, Y. Lin, H. Zhao and G. Gui, "Ultralight Convolutional Neural Network for Automatic Modulation Classification in Internet of Unmanned Aerial Vehicles," in IEEE Internet of Things Journal, vol. 11, no. 11, pp. 20831-20839, June 2024.
+
 # Requirements
 
 keras=2.1.4 tensorflow=1.14
